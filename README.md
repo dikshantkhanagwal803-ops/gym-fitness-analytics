@@ -34,6 +34,6 @@ This project analyzes gym member activity, workout habits, and fitness performan
 - Dataset
 - Dashboard Screenshot
 
-## Author
+# Author
 
 Dikshant Khanagwal
