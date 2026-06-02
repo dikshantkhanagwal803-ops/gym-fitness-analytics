@@ -1,17 +1,17 @@
-# gym-fitness-analytics
+# Gym-Fitness-Analytics
 Gym Fitness Analytics Dashboard using SQL and Tableau
 
-## Project Overview
+### Project Overview
 
 This project analyzes gym member activity, workout habits, and fitness performance using SQL and Tableau.
 
-## Tools Used
+### Tools Used
 
 - SQL (MySQL)
 - Tableau Public
 - Excel / CSV
 
-## Dashboard Features
+### Dashboard Features
 
 - Average Calories Burned by Workout Type
 - Calories Burned by Gender
@@ -19,7 +19,7 @@ This project analyzes gym member activity, workout habits, and fitness performan
 - Workout Frequency Distribution
 - Session Duration by Experience Level
 
-## Key Insights
+### Key Insights
 
 - Most members work out 3–4 days per week.
 - HIIT and Cardio workouts burn the highest calories.
@@ -27,13 +27,13 @@ This project analyzes gym member activity, workout habits, and fitness performan
 - Most members fall into Normal and Overweight BMI categories.
 - Experienced members tend to have longer workout sessions.
 
-## Files Included
+### Files Included
 
 - Tableau Dashboard
 - SQL Queries
 - Dataset
 - Dashboard Screenshot
 
-# Author
+### Author
 
 Dikshant Khanagwal
